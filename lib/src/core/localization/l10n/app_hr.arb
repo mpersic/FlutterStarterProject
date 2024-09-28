@@ -1,0 +1,22 @@
+{
+    "@@locale": "hr",
+    "@appTitle": {
+        "description": "Glavni naslov aplikacije"
+    },
+    "appTitle": "Flutter i18n",
+    "classification": "Klasifikacija",
+    "confidence": "Sigurnost",
+    "completeOnboarding": "Dovrši uvod",
+    "darkMode": "Tamni način",
+    "error": "Greška",
+    "home": "Početna",
+    "language": "Jezik",
+    "noImageSelected": "Slika nije odabrana",
+    "onboarding": "Uvod",
+    "pickAnAppleImage": "Odaberi sliku jabuke",
+    "prediction": "Prognoza",
+    "profile": "Profil",
+    "settings": "Postavke",
+    "takeAnAppleImage": "Uslikaj sliku jabuke",
+    "welcomeToTheApp": "Dobrodošli u aplikaciju!"
+}

@@ -1,0 +1,22 @@
+{
+    "@@locale": "en",
+    "@appTitle": {
+        "description": "Main application title"
+    },
+    "appTitle": "Flutter i18n",
+    "classification": "Classification",
+    "confidence": "Confidence",
+    "completeOnboarding": "Complete Onboarding",
+    "darkMode": "Dark Mode",
+    "error": "Error",
+    "home": "Home",
+    "language": "Language",
+    "noImageSelected": "No image selected",
+    "onboarding": "Onboarding",
+    "pickAnAppleImage": "Pick an apple image",
+    "prediction": "Prediction",
+    "profile": "Profile",
+    "settings": "Settings",
+    "takeAnAppleImage": "Take an apple image",
+    "welcomeToTheApp": "Welcome to the app!"
+}
